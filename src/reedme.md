@@ -1,0 +1,2 @@
+¿Qué es la mitología de los dioses?
+La mitología griega son las historias, mitos y leyendas sobre los dioses y héroes griegos, pero también era la religión de la Antigua Grecia. La mitología griega explicaba el origen del mundo, los fenómenos naturales y el porqué de la existencia humana.
