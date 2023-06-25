@@ -1,0 +1,64 @@
+*{
+ box-sizing: border-box;
+    }
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("../img/microprocesador-tipos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    }
+
+h2{
+text-align: center;
+margin-top: 20px; 
+}
+
+form { 
+    background-color: rgb(62, 122, 124);
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+label {
+    display: ruby-base;
+    margin-bottom: 10px;
+}
+
+input,
+textarea {
+    display: ruby-base;
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border-color: black;
+    margin-bottom: 5px;
+}
+
+button {
+    box-align: center;
+    background-color: darkgrey;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+
+
+
+.tag {
+    color: #fafcfa;
+    text-align: center;
+    margin-top: 70px;
+    border-radius: 5px;
+}
